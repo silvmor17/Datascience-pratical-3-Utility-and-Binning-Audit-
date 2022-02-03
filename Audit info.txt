@@ -1,0 +1,11 @@
+Audit
+The audit, balance, and control layer is the area from which you can observe what is currently running
+within your data science environment. It records
+• Process-execution statistics
+• Balancing and controls
+• Rejects and error-handling
+• Codes management
+An audit is a systematic and independent examination of the ecosystem.
+The audit sublayer records the processes that are running at any specific point within the environment.
+This information is used by data scientists and engineers to understand and plan future improvements
+to the processing.
